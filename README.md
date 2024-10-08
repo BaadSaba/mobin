@@ -1,6 +1,6 @@
-# noorAlmobin
+# Mobin
 
-Welcome to **noorAlmobin**, a PWA Book & Calendar Application! This project integrates a calendar, the Quran, Nahj al-Balagha, and several other books into a single, user-friendly Progressive Web App (PWA). Developed using **Deno Fresh** for the frontend and **Deno Lesan** for the backend, this application aims to provide an accessible platform for engaging with important texts and managing schedules seamlessly.
+Welcome to **Mobin**, a PWA Book & Calendar Application! This project integrates a calendar, the Quran, Nahj al-Balagha, and several other books into a single, user-friendly Progressive Web App (PWA). Developed using **Deno Fresh** for the frontend and **Deno Lesan** for the backend, this application aims to provide an accessible platform for engaging with important texts and managing schedules seamlessly.
 
 This project just used for testing some github action and other technologies, maybe in later this project find own way.
 
@@ -27,12 +27,12 @@ To install and run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/noorAlmobin.git
+   git clone https://github.com/BaadSaba/Mobin.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd noorAlmobin
+   cd Mobin
    ```
 
 3. Install Deno (if you haven't already):
@@ -95,5 +95,3 @@ For any inquiries or feedback, feel free to reach out:
 
 - Email: hemedani@gmail.com
 - GitHub: [hemedani](https://github.com/hemedani)
-
----
